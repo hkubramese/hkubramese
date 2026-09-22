@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kübra
 
-<!--
-**hkubramese/hkubramese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working toward computational genomics and bioinformatics — currently focused on
+NGS data analysis, variant calling pipelines, and Python for genomics.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completed a TÜBİTAK-funded research project on gene expression analysis (KLF7)
+- Built a hybrid short-read + long-read NGS pipeline (Illumina + Nanopore) covering
+  QC, trimming, alignment, and variant calling — see pinned repo below
+- Working through DNA Academy's bioinformatics coursework (BIF101–BIF601) alongside
+  Python for genomics
+
+## Currently exploring
+
+- Applying an existing NGS pipeline to a new genome as an independent analysis project
+- MSc/PhD applications in computational genomics / bioinformatics
+
+## Find my work
+
+📁 [genomics-learning-journey](https://github.com/hkubramese/genomics-learning-journey) — coursework, pipelines, and notes, in order
