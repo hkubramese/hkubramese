@@ -15,7 +15,10 @@ NGS data analysis, variant calling pipelines, and Python for genomics.
 
 - Applying an existing NGS pipeline to a new genome as an independent analysis project
 - MSc/PhD applications in computational genomics/bioinformatics
+- Investigating whether aminoacyl-tRNA synthetase (ARS) genes are co-regulated in human cancers, using public TCGA and ENCODE data (ars-coregulation-cancer)
 
 ## Find my work
 
 📁 [genomics-learning-journey](https://github.com/hkubramese/genomics-learning-journey) — coursework, pipelines, and notes, in order
+📁 ars-coregulation-cancer — independent research project on ARS gene regulation in cancer (work in progress)
+
