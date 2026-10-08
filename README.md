@@ -19,6 +19,5 @@ NGS data analysis, variant calling pipelines, and Python for genomics.
 
 ## Find my work
 
-📁 [genomics-learning-journey](https://github.com/hkubramese/genomics-learning-journey) — coursework, pipelines, and notes, in order
-📁 ars-coregulation-cancer — independent research project on ARS gene regulation in cancer (work in progress)
-
+📁 <a href="https://github.com/hkubramese/genomics-learning-journey">genomics-learning-journey</a> — coursework, pipelines, and notes, in order<br>
+📁 <a href="https://github.com/hkubramese/ars-coregulation-cancer">ars-coregulation-cancer</a> — independent research project on ARS gene regulation in cancer (work in progress)
